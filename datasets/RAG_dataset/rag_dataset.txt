@@ -1,0 +1,496 @@
+Disease: Bukhar (Fever)
+Symptoms: Jism garm hona, thand lagna, sar mein dard, thakawat, jism tootna.
+Short-term relief: Maathay par taaza paani ki pattiyan rakhein, aaram karein, paani ziada piyein.
+Treatment: Aam tor par Paracetamol (Panadol) li ja sakti hai. Doctor se mashwara zaroori hai.
+Precautionary measures: 
+* Mareez ko halke kapray pehnayen.
+* Kamray ka darja hararat (temperature) normal rakhein.
+* Bahar ki thandi cheezon se parhez karein.
+
+###
+Disease: Nazla Zukaam (Common Cold)
+Symptoms: Naak behna, naak band hona, cheekein aana, gale mein kharash, halka bukhar.
+Short-term relief: Garam paani ki bhaap (steam) lein, namak walay paani se gharaaray karein, Joshanda piyein.
+Treatment: Anti-allergy ya Paracetamol (Panadol) li ja sakti hai. Doctor se mashwara zaroori hai.
+Precautionary measures: 
+* Thandi cheezon aur khatti cheezon se parhez karein.
+* Haath baar baar dhoyen taake jaraseem na phelein.
+* Mask ka istemal karein.
+
+###
+Disease: Dengue
+Symptoms: Tez bukhar, aankhon ke peeche dard, jism aur haddiyon mein shadeed dard, jism par laal nishanaat (rashes).
+Short-term relief: Mukammal bed rest karein, paani aur juices (jaise anar ya seb ka juice) ka bohat ziada istemal karein.
+Treatment: Sirf Paracetamol (Panadol) lein. Aspirin ya Brufen bilkul na lein kyunke is se khoon behne ka khatra hota hai. Doctor se mashwara zaroori hai.
+Precautionary measures: 
+* Machar daani (mosquito net) ka istemal karein.
+* Ghar mein kahin bhi paani khara na hone dein.
+* Poori aasteen walay kapray pehnein.
+
+###
+Disease: Malaria
+Symptoms: Sardi lag kar tez bukhar aana, paseena aana, sar dard, ulti (vomiting) aana.
+Short-term relief: Mareez ko kambal urhayen agar thand lag rahi ho, bukhar tez ho to paani ki pattiyan karein.
+Treatment: Anti-malarial dawai (Doctor ke test aur tajweez ke baad), Paracetamol. Doctor se mashwara zaroori hai.
+Precautionary measures: 
+* Mosquito repellent lotion lagayen.
+* Shaam ke waqt khirkiyan aur darwazay band rakhein.
+* Ghar ke aas paas safayi ka khayal rakhein.
+
+###
+Disease: Typhoid
+Symptoms: Musalsal rehne wala bukhar, pait mein dard, bhook na lagna, kamzori, sar dard.
+Short-term relief: Naram ghiza khayen (jaise khichdi, daliya), paani ko ubaal kar piyein.
+Treatment: Antibiotics (Sirf doctor ki tajweez par), Paracetamol bukhar ke liye. Doctor se mashwara zaroori hai.
+Precautionary measures: 
+* Bazaar ke khanay aur mashroobaat se parhez karein.
+* Sirf saaf aur ubla hua paani piyein.
+* Khana khane se pehle haath achi tarah dhoyen.
+
+###
+Disease: Food Poisoning (Khane ki waja se pait kharab)
+Symptoms: Ulti (vomiting), dast (diarrhea), pait mein maror, halka bukhar.
+Short-term relief: ORS ka paani piyein taake namkiyat poori hon, dahi aur kele (banana) khayen.
+Treatment: Probiotics, ORS, aur zaroorat parne par anti-diarrheal dawai. Doctor se mashwara zaroori hai.
+Precautionary measures: 
+* Baasi khana khane se guraiz karein.
+* Kachi sabziyan aur phal achi tarah dho kar khayen.
+* Hydration ka khayal rakhein.
+
+###
+Disease: Adhay Sar Ka Dard (Migraine)
+Symptoms: Sar ke aik hissay mein shadeed dard, roshni aur shor se takleef, dil (ji) ghabrana.
+Short-term relief: Andheray aur khamosh kamray mein aaram karein, sar dabayen, thori caffeine (chai/coffee) lein.
+Treatment: Painkillers jaise Ibuprofen (Brufen) ya Naproxen. Doctor se mashwara zaroori hai.
+Precautionary measures: 
+* Neend poori karein.
+* Bohat ziada stress lene se bachein.
+* Tez roshni aur tez khushboo se door rahein.
+
+###
+Disease: High Blood Pressure (Buland Fishaar-e-Khoon)
+Symptoms: Sar ke peeche dard, gardan mein khichao, saans phoolna, ghabrahat.
+Short-term relief: Foran aaram karein, gehra saans lein, namak ka istemal band kar dein.
+Treatment: Anti-hypertensive dawai (Jo doctor ne likh kar di ho). Doctor se mashwara zaroori hai.
+Precautionary measures: 
+* Khanay mein namak aur chiknai kam karein.
+* Rozana subah ki sair (walk) karein.
+* Wazan control mein rakhein.
+
+###
+Disease: Diabetes Management (Sugar Ka Control)
+Symptoms: Bohat ziada pyaas lagna, baar baar peshab aana, achanak wazan kam hona, thakawat.
+Short-term relief: Agar sugar low ho to foran koi meethi cheez khayen. Agar high ho to paani piyein aur walk karein.
+Treatment: Insulin ya oral medication (Metformin waghaira) jo doctor ne tajweez ki ho. Doctor se mashwara zaroori hai.
+Precautionary measures: 
+* Meethi cheezon se mukammal parhez karein.
+* Apne paon (feet) ka khaas khayal rakhein ke zakham na ho.
+* Waqt par khana khayen.
+
+###
+Disease: Daant ka dard (Toothache)
+Symptoms: Daant mein tees uthna, masooron mein soojan (swelling), thanda garam lagna.
+Short-term relief: Long (clove) ka tel lagayen, neem garam paani mein namak daal kar gharaaray karein.
+Treatment: Painkillers jaise Ibuprofen (Brufen). Doctor se mashwara zaroori hai.
+Precautionary measures: 
+* Din mein do baar brush zaroor karein.
+* Meethi toffees aur sticky khanay se bachein.
+* Har 6 mahinay baad dentist ko dikhayen.
+
+###
+Disease: Haiza / Dast (Diarrhea)
+Symptoms: Patlay pakhane (loose motions), pait mein maror, paani ki kami (dehydration), kamzori.
+Short-term relief: ORS ka paani thori thori dair baad piyein, Kela (banana) aur dahi (yogurt) khayen.
+Treatment: Zinc supplements aur ORS. Agar infection ho to Flagyl (Doctor ke mashwaray se). Doctor se mashwara zaroori hai.
+Precautionary measures: 
+* Pani ubaal kar piyein.
+* Khana khane se pehle haath sabun se dhoyen.
+* Basi aur khula hua khana na khayen.
+
+###
+Disease: Nimoniya (Pneumonia)
+Symptoms: Saans lene mein dushwari, seenay mein dard, balgham wali khansi, tez bukhar.
+Short-term relief: Bhaap (steam) lein, mareez ko aaram karwayen, garam mashroobaat (soup/yakhni) dein.
+Treatment: Antibiotics (Sirf doctor ki tajweez par), Paracetamol bukhar ke liye. Doctor se mashwara zaroori hai.
+Precautionary measures: 
+* Sardi se bachein aur garam kapray pehnein.
+* Mareez ke qareeb jatay waqt mask pehnein.
+* Vaccination waqt par karwayen.
+
+###
+Disease: Dama (Asthma)
+Symptoms: Saans phoolna, seenay mein jakran, saans letay waqt seeti ki awaaz aana (wheezing).
+Short-term relief: Inhaler ka fori istemal karein, seedha baith jayen (letnay se guraiz karein), coffee piyein.
+Treatment: Inhalers (Ventolin waghaira) aur Nebulization. Doctor se mashwara zaroori hai.
+Precautionary measures: 
+* Dhool mitti aur dhuyen se bachein.
+* Carpet ki safayi ka khaas khayal rakhein.
+* Paltoo janwaron (pets) ke baalon se door rahein.
+
+###
+Disease: Ashob-e-Chashm (Conjunctivitis / Eye Flu)
+Symptoms: Aankhein laal hona, aankhon se paani behna, chubhan, subah aankhein chipakna.
+Short-term relief: Aankhon ko thanday paani se dhoyen, barf ki tikor (cold compress) karein, kala chashma pehnein.
+Treatment: Antibiotic eye drops (jaise Methachlor). Doctor se mashwara zaroori hai.
+Precautionary measures: 
+* Apni toliya (towel) aur takiya (pillow) alag rakhein.
+* Aankhon ko baar baar haath na lagayen.
+* Haath sanitize karte rahein.
+
+###
+Disease: Tezabiyat (Acid Reflux / Heartburn)
+Symptoms: Seenay mein jalan, mun mein khatta paani aana, pait phoolna, khana hazam na hona.
+Short-term relief: Thanda doodh piyein, khanay ke baad foran na letein, saunf (fennel seeds) chabayen.
+Treatment: Antacid syrup (Gaviscon) ya Omeprazole (Risek). Doctor se mashwara zaroori hai.
+Precautionary measures: 
+* Masalay daar aur tali hui cheezon se parhez karein.
+* Raat ka khana sonay se 2-3 ghantay pehle khayen.
+* Chaye aur coffee ka istemal kam karein.
+
+###
+Disease: Jildi Kharish (Skin Allergy / Eczema)
+Symptoms: Jism par laal nishanaat, shadeed kharish, jild ka khushk hona.
+Short-term relief: Aloe vera gel lagayen, barf ragrein (ice pack), sooti (cotton) kapray pehnein.
+Treatment: Anti-allergy goli (Softin / Fexet) aur Calamine lotion. Doctor se mashwara zaroori hai.
+Precautionary measures: 
+* Garam paani se nahanay se guraiz karein.
+* Khushbu daar sabun ya lotion use na karein.
+* Dhool mitti se bachein.
+
+###
+Disease: Yarqan (Jaundice)
+Symptoms: Aankhein aur jild peeli hona, peshab ka rang gehra peela hona, bhook na lagna, pait dard.
+Short-term relief: Gannay ka ras (sugarcane juice) piyein, baghair chiknai wala khana khayen, mukammal aaram karein.
+Treatment: Iska ilaj cause ke mutabiq hota hai, liver supplements. Doctor se mashwara zaroori hai.
+Precautionary measures: 
+* Bazaar ke khanay aur ganday paani se bachein.
+* Tali hui cheezain bilkul band kar dein.
+* Pani ziada se ziada piyein.
+
+###
+Disease: Kaan ka dard (Ear Infection)
+Symptoms: Kaan mein shadeed dard, sunnay mein dushwari, kaan se mawad (fluid) behna.
+Short-term relief: Garam kapray se kaan ki sekai karein, let'tay waqt sar uncha rakhein.
+Treatment: Ear drops aur Painkillers (Brufen). Antibiotics agar infection ho. Doctor se mashwara zaroori hai.
+Precautionary measures: 
+* Kaan mein maachis ki teeli ya ear buds na maarein.
+* Nahatay waqt kaan mein paani na janay dein.
+* Nazla zukaam ka fori ilaj karein (ye kaan par asar karta hai).
+
+###
+Disease: Peshab ki nali ka infection (UTI)
+Symptoms: Peshab mein jalan, baar baar haajat hona, pait ke nichlay hissay mein dard.
+Short-term relief: Cranberry juice piyein, paani ka istemal barha dein.
+Treatment: Antibiotics (jaise Novidat) aur Cranberry sachets. Doctor se mashwara zaroori hai.
+Precautionary measures: 
+* Safayi ka khaas khayal rakhein.
+* Peshab ko ziada dair tak rokay na rakhein.
+* Sooti (cotton) undergarments istemal karein.
+
+###
+Disease: Loo Lagna (Heat Stroke)
+Symptoms: Shadeed bukhar, jild khushk aur garam hona, chakkar aana, behosh hona.
+Short-term relief: Mareez ko foran thandi jagah le jayen, jism par thanda paani dalein, ORS pilayen.
+Treatment: Rehydration therapy (Drips), Paracetamol. Doctor se mashwara zaroori hai.
+Precautionary measures: 
+* Garmi mein bila-waja bahar na niklein.
+* Sar damp kar (cover karkay) rakhein.
+* Paani ki bottle hamesha saath rakhein.
+
+###
+Disease: Galay ke Ghudoud (Tonsillitis)
+Symptoms: Galay mein shadeed dard, khana nigalnay mein dushwari, bukhar, awaz baith jana.
+Short-term relief: Neem garam paani mein namak daal kar gharaaray karein, shehad (honey) aur adrak ki chaye piyein.
+Treatment: Antibiotics (agar infection ho), Paracetamol ya Brufen dard ke liye. Doctor se mashwara zaroori hai.
+Precautionary measures: 
+* Thanda paani aur khatti cheezon se parhez karein.
+* Apne toothbrush ko tabdeel karein taake infection wapis na aaye.
+* Galay ko thand se bacha kar rakhein.
+
+###
+Disease: Joron ka dard (Arthritis)
+Symptoms: Joron mein dard aur soojan (swelling), chalnay phirnay mein takleef, subah uth kar joron ka sakhat hona.
+Short-term relief: Garam paani ki bottle se sekai karein, zaitoon (olive) ke tel se malish karein.
+Treatment: Anti-inflammatory dawai (jaise Brufen/Voltral). Doctor se mashwara zaroori hai.
+Precautionary measures: 
+* Apna wazan control mein rakhein taake joron par bojh na paray.
+* Rozana halki phulki warzish (exercise) karein.
+* Thandi jagah par sonay se guraiz karein.
+
+###
+Disease: Khoon ki Kami (Anemia)
+Symptoms: Rangat peeli parna, har waqt thakawat, saans phoolna, sar chakrana.
+Short-term relief: Anar, chukandar (beetroot), aur kaleji (liver) ka istemal barha dein.
+Treatment: Iron supplements (Fefol / Sangobion). Doctor se mashwara zaroori hai.
+Precautionary measures: 
+* Khana khanay ke foran baad chaye na piyein (ye iron ko jazb hone se rokti hai).
+* Vitamin C wali cheezain (jaise orange juice) lein taake iron jaldi jazb ho.
+* Balanced diet ka khayal rakhein.
+
+###
+Disease: Qabz (Constipation)
+Symptoms: Pakhana (stool) sakhat aana, pait bhaari hona, pait mein gas banna.
+Short-term relief: Ispaghol ka chilka dahi ya paani mein mila kar lein, garam paani piyein.
+Treatment: Laxatives (jaise Cremaffin ya Laxoberon drops). Doctor se mashwara zaroori hai.
+Precautionary measures: 
+* Rozana kam az kam 8-10 glass paani piyein.
+* Roti aur sabziyon (fiber) ka istemal ziada karein.
+* Fast food aur maiday wali cheezon se bachein.
+
+###
+Disease: Kamar Dard (Back Pain)
+Symptoms: Kamar ke nichlay hissay mein dard, jhuknay mein takleef, dard ka taango tak jana.
+Short-term relief: Sakhat bistar par letein, garam pad (heating pad) se sekai karein.
+Treatment: Muscle relaxants aur Painkillers (Brufen/Nuberol). Doctor se mashwara zaroori hai.
+Precautionary measures: 
+* Bhari wazan uthanay se parhez karein.
+* Baithtay waqt kamar seedhi rakhein (posture theek rakhein).
+* Naram gadday (mattress) par na soyen.
+
+###
+Disease: Gurday ki Pathri (Kidney Stones)
+Symptoms: Kamar ki sides par shadeed dard, peshab mein khoon aana, ulti (vomiting) aana.
+Short-term relief: Paani ka intehai ziada istemal karein, dard ke liye fori painkiller lein.
+Treatment: Painkillers, Tamsulosin (pathri nikalne ke liye), ya Surgery/Lithotripsy. Doctor se mashwara zaroori hai.
+Precautionary measures: 
+* Palak, tamatar aur ziada namak wali cheezon se parhez karein.
+* Din mein 3-4 liter paani piyein.
+* Cold drinks se mukammal parhez karein.
+
+###
+Disease: Keel Mahasay (Acne / Pimples)
+Symptoms: Chehray par daanay nikalna, jild chikni (oily) hona, daanon mein dard ya peep parna.
+Short-term relief: Chehra din mein do baar achay face wash se dhoyen, barf (ice) lagayen.
+Treatment: Benzoyl Peroxide gel ya Antibiotics (topical/oral). Doctor se mashwara zaroori hai.
+Precautionary measures: 
+* Daanon ko haath se na chuein aur na phorein (nishanaat reh jatay hain).
+* Tali hui cheezain aur chocolates kam khayen.
+* Apna takiya (pillow cover) rozana change karein.
+
+###
+Disease: Neend na aana (Insomnia)
+Symptoms: Raat ko dair tak jaagna, neend toot jana, din mein thakawat rehna, chichrapan.
+Short-term relief: Sonay se pehle neem garam doodh piyein, mobile phone ko bistar se door rakhein.
+Treatment: Melatonin supplements ya Sleeping pills (Sirf doctor ki prescription par). Doctor se mashwara zaroori hai.
+Precautionary measures: 
+* Sonay aur jaagnay ka waqt muqarrar karein.
+* Sham ke baad chaye ya coffee na piyein.
+* Kamray mein andhera aur khamoshi rakhein.
+
+###
+Disease: Chickenpox (Lakara Kakara)
+Symptoms: Jism par paani walay daanay (blisters), bukhar, jism mein dard, kharish.
+Short-term relief: Neem ke pattay ubaal kar us paani se nahayen, Calamine lotion lagayen.
+Treatment: Anti-viral medicines (Acyclovir) aur Anti-allergy kharish ke liye. Doctor se mashwara zaroori hai.
+Precautionary measures: 
+* Mareez ko doosron se alag kamray mein rakhein (ye bimari tezi se phelti hai).
+* Daanon ko kharish na karein taake infection na barhay.
+* Vaccine lagwayen.
+
+###
+Disease: Maiday ki Jalan (Gastritis / Stomach Ulcer)
+Symptoms: Pait ke oopri hissay mein jalan, khana khane ke baad dard, dil kharab hona.
+Short-term relief: Thanda doodh piyein, khanay mein mirch masalay bilkul band kar dein.
+Treatment: Antacids (mucaine gel) aur Proton Pump Inhibitors (Omeprazole). Doctor se mashwara zaroori hai.
+Precautionary measures: 
+* Khali pait chaye ya coffee na piyein.
+* Smoking aur alcohol se parhez karein.
+* Waqt par khana khayen aur thora thora kar ke khayen.
+
+###
+Disease: Zehni Dabao (Depression)
+Symptoms: Musalsal udaasi, kisi kaam mein dil na lagna, bhook aur neend mein tabdeeli, mayoosi.
+Short-term relief: Apnay kisi qareebi dost ya rishtedar se baat karein, gehra saans lein, wazan ki warzish (exercise) karein.
+Treatment: Therapy aur Antidepressants (Sirf psychiatrist ki tajweez par). Doctor se mashwara zaroori hai.
+Precautionary measures: 
+* Akelay rehne se guraiz karein.
+* Manfi sochon (negative thoughts) ko rokein.
+* Rozana dhoop mein thora waqt guzarein.
+
+###
+Disease: Motapa (Obesity)
+Symptoms: Wazan ka hadd se ziada barhna, saans phoolna, susti, kapray tang hona.
+Short-term relief: Meethi drinks aur fast food foran chor dein, rozana 30 minute tez chalein.
+Treatment: Diet plan aur lifestyle changes. Ziada masla ho to doctor weight loss dawai dete hain. Doctor se mashwara zaroori hai.
+Precautionary measures: 
+* Raat ka khana sonay se 3 ghantay pehle khayen.
+* Chini (sugar) ka istemal kam se kam karein.
+* Portion control karein (bhook se thora kam khayen).
+
+###
+Disease: Scabies (Kharish ki bimari)
+Symptoms: Raat ke waqt shadeed kharish, ungliyon ke darmiyan chotay daanay.
+Short-term relief: Thanda lotion (Calamine) lagayen, kharish karne se bachein.
+Treatment: Permethrin cream/lotion (Poore jism par lagani hoti hai). Doctor se mashwara zaroori hai.
+Precautionary measures: 
+* Ghar ke sab afrad ka ilaj aik saath hona zaroori hai (chahay unhein kharish na bhi ho).
+* Kapray aur bistar garam paani se dhoyen.
+* Mareez ki cheezain alag rakhein.
+
+###
+Disease: Bawaseer (Piles / Hemorrhoids)
+Symptoms: Pakhane ke waqt dard, khoon aana, maqad (rectum) par soojan ya kharish.
+Short-term relief: Sitz bath lein (Neem garam paani mein 15 minute baithna), qabz na hone dein.
+Treatment: Ointments/Creams (Anusol etc.) aur stool softeners. Ziada takleef mein surgery. Doctor se mashwara zaroori hai.
+Precautionary measures: 
+* Ziada dair toilet mein na baithein.
+* Masalay daar khanay se parhez karein.
+* Pani aur fiber (sabziyan) ziada lein.
+
+###
+Disease: Sinus (Sinusitis)
+Symptoms: Naak band hona, maathay aur aankhon ke neechay dard, naak se rasha girna.
+Short-term relief: Pani ki bhaap (steam) lein, naak mein saline water spray karein.
+Treatment: Antibiotics aur Decongestants (Naak kholnay ki dawa). Doctor se mashwara zaroori hai.
+Precautionary measures: 
+* Thandi hawa se sar dhaanp kar rakhein.
+* AC ki seedhi hawa se bachein.
+* Allergy wali cheezon se door rahein.
+
+###
+Disease: Vitamin D ki kami (Vitamin D Deficiency)
+Symptoms: Haddiyon aur pathon mein dard, har waqt thakawat, jism tootna.
+Short-term relief: Subah ki dhoop (sunlight) mein 15-20 minute baithein.
+Treatment: Vitamin D ke capsules ya injections (Doctor ke test ke baad). Doctor se mashwara zaroori hai.
+Precautionary measures: 
+* Doodh, anday aur machli ka istemal karein.
+* Sunblock laga kar dhoop mein na baithein (ye vitamin D bannay se rokta hai).
+* Regular checkup karwayen.
+
+###
+Disease: Kan-pairay (Mumps)
+Symptoms: Gaal aur gardan ke paas soojan, bukhar, khana chabanay mein dard.
+Short-term relief: Naram ghiza (soup/khichdi) khayen, soojan par barf ki tikor (cold compress) karein.
+Treatment: Dard ke liye Paracetamol. Ye virus khud theek hota hai, bas aaram karein. Doctor se mashwara zaroori hai.
+Precautionary measures: 
+* Ye aik contagious bimari hai, mareez ko alag kamray mein rakhein.
+* Khatti cheezain na dein (is se dard barhta hai).
+* MMR vaccine lagwayen.
+
+###
+Disease: Daad / Chambal (Ringworm / Fungal Infection)
+Symptoms: Jild par gol daira (ring) banna jo laal ho aur us mein kharish ho.
+Short-term relief: Jagah ko khushk rakhein, paseena na aanay dein.
+Treatment: Anti-fungal creams (Clotrimazole waghaira). Doctor se mashwara zaroori hai.
+Precautionary measures: 
+* Doosron ke kapray ya toliya istemal na karein.
+* Tang kapray pehannay se guraiz karein.
+* Nahane ke baad jism achi tarah khushk karein.
+
+###
+Disease: Garmidaanay (Prickly Heat)
+Symptoms: Garmi mein jism par chotay surkh daanay, chubhan aur kharish.
+Short-term relief: Thanday paani se nahayen, Prickly heat powder lagayen.
+Treatment: Calamine lotion aur Anti-allergy agar kharish ziada ho. Doctor se mashwara zaroori hai.
+Precautionary measures: 
+* Sooti (cotton) aur dheelay kapray pehnein.
+* Ziada garmi aur dhoop mein nikalnay se bachein.
+* Barf ka istemal karein.
+
+###
+Disease: Hepatitis (Jigar ki sozish)
+Symptoms: Pait mein dard, peela yarqan (jaundice), bhook khatam hona, gehra peshab.
+Short-term relief: Mukammal bed rest karein, fatty (chiknai walay) khanay band kar dein.
+Treatment: Antiviral dawaiyan (Doctor mukammal test ke baad tajweez karte hain). Doctor se mashwara zaroori hai.
+Precautionary measures: 
+* Hajjam (barber) se clean shave karate waqt naya blade use karwayen.
+* Used injections/syringes kabhi istemal na karein.
+* Pani ubaal kar piyein.
+
+###
+Disease: Appendix Ka Dard (Appendicitis)
+Symptoms: Naaf (navel) ke daayen (right) taraf nichay shadeed dard, ulti aana, dard ka barhna jab khaansein ya chalein.
+Short-term relief: Kuch bhi khanay peenay se guraiz karein, dard ki jagah par garam bottle na rakhein. Foran hospital jayen.
+Treatment: Iska ilaj aam tor par surgery (operation) hota hai. Doctor se mashwara zaroori hai.
+Precautionary measures: 
+* Ye achanak hota hai, iski koi khaas precautionary measure nahi.
+* Pait dard ko mamooli samajh kar painkillers na khate rahein agar dard daayen taraf ho.
+
+###
+Disease: Mun ke Chaalay (Mouth Ulcers)
+Symptoms: Mun ke andar safed ya laal zakham, khana khanay mein chubhan aur dard.
+Short-term relief: Thanda paani piyein, masalay daar cheezain band kar dein, dahi khayen.
+Treatment: Mun ke chaalon ki gel (jaise Somogel ya Bonjela). Doctor se mashwara zaroori hai.
+Precautionary measures: 
+* Naram toothbrush istemal karein.
+* Vitamin B aur Iron ki kami na hone dein.
+* Paan chalia se parhez karein.
+
+###
+Disease: TB (Tuberculosis / Tap-e-Diq)
+Symptoms: 2 haftay se ziada khansi, wazan kam hona, sham ke waqt bukhar, balgham mein khoon aana.
+Short-term relief: Aaram karein, healthy khana khayen, mask pehan kar rakhein.
+Treatment: TB ka mukammal course (ATT) jo 6 mahinay chalta hai. Beech mein dawai chorna khatarnak hai. Doctor se mashwara zaroori hai.
+Precautionary measures: 
+* Khantay waqt mun par kapra rakhein.
+* Bachon ko paidaish ke baad BCG ka teeka lagwayen.
+* Hawa daar kamray mein rahein.
+
+###
+Disease: Ghabrahat (Anxiety)
+Symptoms: Dil ki dharkan tez hona, hath paon kanpna, bechaini, bila waja khauf mehsoos hona.
+Short-term relief: Gehra saans lein (Deep breathing), paani piyein, apni tawajja kisi aur taraf lagayen.
+Treatment: Therapy aur anti-anxiety medicines (jaise Alprazolam - sirf doctor ki parchi par). Doctor se mashwara zaroori hai.
+Precautionary measures: 
+* Caffeine (chai/coffee) ka istemal kam karein.
+* Rozana warzish (exercise) karein.
+* Neend poori karein.
+
+###
+Disease: Sar ki Juyein (Head Lice)
+Symptoms: Sar mein har waqt kharish hona, khaas tor par kaan ke peeche aur gardan par.
+Short-term relief: Bareek kanghi (lice comb) ka istemal karein.
+Treatment: Anti-lice shampoo/lotion (Coopex waghaira). Doctor se mashwara zaroori hai.
+Precautionary measures: 
+* Doosron ki kanghi, topi, ya takiya istemal na karein.
+* Bachon ke sar ki safayi ka khayal rakhein.
+* Bistar ki Chadar garam paani se dhoyen.
+
+###
+Disease: Safed Motia (Cataract)
+Symptoms: Nazar dhundla jana, raat ko dekhnay mein dushwari, roshni ke gird dairay (halos) nazar aana.
+Short-term relief: Tez roshni se bachein, chashma lagayen.
+Treatment: Iska wahid hal chota sa operation (Surgery) hai jis mein lens tabdeel hota hai. Doctor se mashwara zaroori hai.
+Precautionary measures: 
+* Dhoop mein kala chashma pehnein.
+* Sugar (Diabetes) ko control mein rakhein.
+* Smoking se parhez karein.
+
+###
+Disease: Chakkar Aana (Vertigo)
+Symptoms: Aisa lagna ke kamra ghoom raha hai, sar ghoomna, ulti aana, tawazan (balance) kharab hona.
+Short-term relief: Foran zameen par lait jayen, aankhein band kar lein, sar ko tezi se na hilayen.
+Treatment: Anti-vertigo medicines (jaise Serc / Betahistine). Doctor se mashwara zaroori hai.
+Precautionary measures: 
+* Achanak kharay hone se guraiz karein.
+* Sar ke neeche do takiye (pillows) rakh kar soyen.
+* Stress kam lein.
+
+###
+Disease: Mahwari ka dard (Menstrual Cramps)
+Symptoms: Pait ke nichlay hissay mein dard, kamar dard, taango mein dard, chichrapan.
+Short-term relief: Garam paani ki bottle (Hot water bottle) pait par rakhein, adrak ki chaye piyein.
+Treatment: Painkillers (jaise Ponstan ya Brufen) aur Antispasmodics (Buscopan). Doctor se mashwara zaroori hai.
+Precautionary measures: 
+* Inn dino mein thandi cheezon se parhez karein.
+* Halka phulka chaltay phirtay rahein (walk karein).
+* Pani ziada piyein.
+
+###
+Disease: Tetanus (Tashanuj / Chandi)
+Symptoms: Jabra (jaw) lock hona, gardan aur pathon mein akrao, nigalnay mein dushwari.
+Short-term relief: Foran hospital jayen, ye jaan lewa ho sakta hai.
+Treatment: Tetanus Immunoglobulin aur Antibiotics. Hospital mein dakhla zaroori hai. Doctor se mashwara zaroori hai.
+Precautionary measures: 
+* Agar koi lohay ki cheez ya sadak par chot lagay to 24 ghantay mein Tetanus ka teeka (ATS) lagwayen.
+* Bachpan mein vaccination poori karwayen.
+
+###
+Disease: Dhoop se jalna (Sunburn)
+Symptoms: Jild ka laal hona, jalan, kharish, haath lagane par dard hona.
+Short-term relief: Thanda paani dalein, Aloe Vera gel lagayen, dhoop mein jana band karein.
+Treatment: Moisturizing creams aur dard ke liye Ibuprofen. Doctor se mashwara zaroori hai.
+Precautionary measures: 
+* Dhoop mein nikalnay se pehle Sunblock lagayen.
+* Poori aasteen ke kapray pehnein.
+* Subah 10 bajay se dopehar 4 bajay tak dhoop se bachein.
