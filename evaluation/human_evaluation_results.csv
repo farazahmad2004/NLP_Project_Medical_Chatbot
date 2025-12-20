@@ -1,0 +1,186 @@
+Model,Mode,Query,Response,Human_Rating,,Model,Aggregated
+Llama-1B,Base,"Mujhe subah se sar mein dard ho raha hai, koi dawai bataen?","چند دیر पہلے ہی کچھ دھیڑیں اٹھا لیں۔
+
+1. ہمیشہ ہم کے لیے ایک ڈیوائے کے لیے ایک ڈیوائے کے لیے ایک ڈیوائے کے لیے ایک ڈیوائے کے لیے ایک ڈیوائے کے لیے ایک ڈیوائے کے لیے ایک ڈیوائے کے لیے ایک ڈیوائے کے لیے ایک ڈیوائے کے لیے ایک",1,,Llama-1B-Base,1.35
+Llama-1B,Base,Mere bachay ko tez bukhar hai aur wo kuch kha nahi raha.,"حال میں کئی بچوں کی تیز بکھرائی اور ان کے کھانے سے ان پر کچھ بھی نہیں ہوا ہے۔
+
+اس کے لیے یہ کچھ کہیں جا سکتے ہیں:
+
+1. ہمیشہ بکھرائی کھانے کی پالیسی: بکھرائی کھانے کی پالیسی کو ہمیشہ ہم کے لیے لگائیں۔
+
+2. ہمیشہ کھانے کے وقت کا تجربہ: بکھرائی کھانے کے وقت کا تجرب�",1,,Llama-1B-FT,2.775
+Llama-1B,Base,"Mujhe khansi ke sath balgham aa raha hai, kya karoon?","حال میں کچھ سے بچنا ہے، یہ کیا کرنا ہے:
+
+1. ہم کچھ سے بچنے کے لیے ایک اچھی طرح کے ساتھ کام کریں۔
+2. ہم کچھ سے بچنے کے لیے ایک اچھی طرح کے ساتھ کام کریں۔
+3. ہم کچھ سے بچنے کے لیے ایک اچھی طرح کے ساتھ کام کریں۔
+4. ہم کچھ سے بچنے کے لیے ایک اچھی طرح کے ساتھ کام کری",1,,Llama-1B-RAG,2.87
+Llama-1B,Base,Pait mein mror uth rahe hain aur loose motion lage hain.,"پیت میں ڈھکنے اور لاک ڈھکنے کی وجہ سے ڈیٹ ہو رہا ہے؟
+
+اس سے متعلق ایک اور ڈاکٹر نے کہا، ""پیت میں ڈھکنے اور لاک ڈھکنے کی وجہ سے ڈیٹ ہو رہا ہے، اس کے لیے ڈیٹ کی گئی ہے۔""
+
+اس کے بعد، ایک دیگر ڈاکٹر نے کہا، ""پیت میں ڈھکنے اور لاک ڈھکنے کی وجہ س",1.5,,Llama-3B-Base,2.5
+Llama-1B,Base,"Mere daant mein shadeed dard hai, dentist ke paas janay tak kya karoon?","Daant mein shadeed dard hai, dentist ke paas janay tak kya karoon?
+
+Daant mein shadeed dard hai, dentist ke paas janay tak kuchh yeh kadam hain:
+
+1. **Daant ki aayu badhna**: Daant ki aayu badhna shamil hai, jisse dard badh jata hai. Isliye, dentist se daant ki aayu ko badhane ke liye kuchh kadam uthaye ja sakte hain, jaise ki daant ki aayu ko badhane ke liye daant ki aayu ko badhane ke liye daant ki aayu ko badhane ke liye daant ki aayu ko badhane ke liye daant ki aayu ko badhane ke liye daant ki aayu ko badhane ke liye daant ki",1.5,,Llama-3B-FT,3.2
+Llama-1B,Base,Mujhe saans lene mein dushwari ho rahi hai jab main sidhiyan charhta hoon.,"اس سے پہلے کے مطابق، جب آپ کی ڈیبیو کے بعد، آپ کے پاس ہر ڈیبیو کے بعد کے دھنے کے ساتھ ہیں، جیسا کہ آپ نے پہلے کے ڈیبیو کے بعد کے دھنے کے ساتھ ہیں۔
+
+اس کے لیے، آپ کو ڈیبیو کے بعد کے دھنے کے ساتھ ہیں، جیسا کہ آپ نے پہلے کے ڈیبیو کے بعد کے دھن�",1.5,,Llama-3B-RAG,2.825
+Llama-1B,Base,Meri aankhon mein jalan aur pani aa raha hai.,یہ ایک صحت کے ساتھ تعلقات کا ایک اہم حصہ ہے۔ جب Meri کی ہر آنکھوں میں جال اور پانی آ رہا ہے، تو اس کا مطلب ہے کہ اس کی ہر آنکھوں میں کچھ اچھے ہوٹ کی وجہ سے ہر آنکھوں میں جال اور پانی آ رہا ہے۔ یہ جال اور پانی کی وجہ سے ہر آنکھوں میں ہوٹ کی وجہ سے ہر آنکھوں می,1.5,,Qwen-7B-Base,1.5
+Llama-1B,Base,"Kaan mein dard hai, shayed paani chala gaya hai.","Kaan mein dard hai, shayed paani chala gaya hai. یہ ایک عارضہ ہے، اور یہ کئی کारणوں سے ہو سکتا ہے۔ یہاں کہیں سے کہا جا سکتا ہے:
+
+1. ڈیٹر میں ہوا ہوا ہونے کی وجہ: ڈیٹر میں ہوا ہوا ہونے کی وجہ سے ہوا ہوا ہونے کی وجہ سے ڈیٹر میں ہوا ہوا ہونے کی وجہ",1.5,,Qwen-7B-FT,3.56
+Llama-1B,Base,Jism par lal nishan par gaye hain aur kharish ho rahi hai.,یہ ایک اچھی اور موثر اور موثر اور موثر اور موثر اور موثر اور موثر اور موثر اور موثر اور موثر اور موثر اور موثر اور موثر اور موثر اور موثر اور موثر اور موثر اور موثر اور موثر اور موثر اور موثر اور موثر اور موثر اور موثر اور موثر اور موثر اور موثر اور موثر اور موثر اور موثر اور موثر اور موثر اور موثر اور موثر اور موثر اور موثر اور موثر اور موثر اور موثر اور موثر اور موثر اور موثر اور موثر اور موثر اور موثر اور موثر اور موثر اور موثر اور مو,1.5,,Qwen-7B-RAG,3.67
+Llama-1B,Base,Mujhe ulti jaisa mehsoos ho raha hai (nausea). kia karun?,"ہم اس کے لیے ایک اہم ذرائع کی تجویز کرتے ہیں:
+
+1.  **آڈیواسکیمٹری**: اگر آپ نے اسے زیادہ سے زیادہ نہیں کیا ہو تو، یہ possibility ہو سکتا ہے کہ آپ کے ڈبھی کے اندر ہر ہر ہر ہر ہر ہر ہر ہر ہر ہر ہر ہر ہر ہر ہر ہر ہر ہر ہر ہر ہر �",1.5,,,
+Llama-1B,FT,"Mujhe subah se sar mein dard ho raha hai, koi dawai bataen?",Mujhe lagta hai ke aapko ek medical provider se milna chahiye. Aapko ek physical examination aur kuch lab tests ki zaroorat hai taake aapka sahi se jaiza liya ja sake. Aapko ek medical provider se milna chahiye taake aapka sahi se jaiza liya ja sake. Aapko ek medical provider se milna chahiye taake aapka sahi se jaiza liya ja sake. Aapko ek medical provider se milna chahiye taake aapka sahi se jaiza liya ja sake. Aapko ek medical provider se milna chahiye taake aapka sahi se jaiza liya ja sake. Aapko ek medical provider se milna chahiye taake aapka sahi se jaiza liya ja sake. Aapko ek medical provider se milna chahiye taake,3,,,
+Llama-1B,FT,Mere bachay ko tez bukhar hai aur wo kuch kha nahi raha.,Mujhe lagta hai ke aapka bachah shayad viral infection se takleef mein hai. Aapka bachah achi tarah se khana khane mein madad le raha hai aur usay kuch khaane ki zarurat hai. Aapka bachah shayad thoda thoda thandi hai. Main aapko salah deta hoon ke aap usay thandi paani se dhoyen. Aapka bachah achi tarah se khana khane mein madad le raha hai aur usay kuch khaane ki zarurat hai. Aapka bachah shayad thoda thoda thandi hai. Main aapko salah deta hoon ke aap usay thandi paani se dhoyen. Aapka bachah achi tarah se khana khane mein madad le raha hai aur usay kuch khaane ki,3.2,,,
+Llama-1B,FT,"Mujhe khansi ke sath balgham aa raha hai, kya karoon?",Mujhe lagta hai ke aapko sirf ek viral infection hai jo aapke khoon mein hai. Khansi ke sath balgham aapke khoon mein viral particles ka ek aham hissa hai. Aapko ek aisi dawai di jati hai jo aapke khoon mein viral particles ko kam karne mein madad karegi. Aapko ek antibiotic bhi di jati hai jo aapke khoon mein viral particles ko kam karne mein madad karegi. Aapko ek anti-inflammatory dawai bhi di jati hai jo aapke khoon mein viral particles ko kam karne mein madad karegi. Aapko ek anti-viral dawai bhi di jati hai jo aapke khoon mein viral particles ko kam karne mein madad karegi. Aapko ek anti-inflammatory dawai bhi di jati hai jo aapke kho,3.5,,,
+Llama-1B,FT,Pait mein mror uth rahe hain aur loose motion lage hain.,Mujhe lagta hai ke aapko kuch aisa nahi hai jo aapko pait mein mro se jure kare. Aapko kuch aisa nahi hai jo aapko pait mein mro se jure kare. Aapko kuch aisa nahi hai jo aapko pait mein mro se jure kare. Aapko kuch aisa nahi hai jo aapko pait mein mro se jure kare. Aapko kuch aisa nahi hai jo aapko pait mein mro se jure kare. Aapko kuch aisa nahi hai jo aapko pait mein mro se jure kare. Aapko kuch aisa nahi hai jo aapko pait mein mro se jure kare. Aapko kuch aisa nahi hai jo aapko pait mein m,3,,,
+Llama-1B,FT,"Mere daant mein shadeed dard hai, dentist ke paas janay tak kya karoon?","Mere paas aapke daant ke dard ke bare mein kuch nahi hai, lekin aapke daant ke dard ke bare mein kuch nahi hai. Aapke daant ke dard ke bare mein kuch nahi hai.",2.5,,,
+Llama-1B,FT,Mujhe saans lene mein dushwari ho rahi hai jab main sidhiyan charhta hoon.,Mujhe lagta hai ke aapko saans lene mein mushkil ho rahi hai. Aapko saans lene mein mushkil ho rahi hai. Aapko saans lene mein mushkil ho rahi hai. Aapko saans lene mein mushkil ho rahi hai. Aapko saans lene mein mushkil ho rahi hai. Aapko saans lene mein mushkil ho rahi hai. Aapko saans lene mein mushkil ho rahi hai. Aapko saans lene mein mushkil ho rahi hai. Aapko saans lene mein mushkil ho rahi hai. Aapko saans lene mein mushkil ho rahi hai. Aapko saans lene mein mushkil ho rahi hai. Aapko saans lene mein mushkil ho rahi hai. Aapko saans lene mein mushkil ho rahi,2,,,
+Llama-1B,FT,Meri aankhon mein jalan aur pani aa raha hai.,Mujhe lagta hai ke aapko kuch aisa ho raha hai jo aapko nahi pata. Aapko ek aankh ke doctor se milna chahiye taake aapka sahi jaiza liya ja sake. Aapko ek aankh ke doctor se milna chahiye taake aapka sahi jaiza liya ja sake. Aapko ek aankh ke doctor se milna chahiye taake aapka sahi jaiza liya ja sake. Aapko ek aankh ke doctor se milna chahiye taake aapka sahi jaiza liya ja sake. Aapko ek aankh ke doctor se milna chahiye taake aapka sahi jaiza liya ja sake. Aapko ek aankh ke doctor se milna chahiye taake aapka sahi jaiza liya ja sake,2.5,,,
+Llama-1B,FT,"Kaan mein dard hai, shayed paani chala gaya hai.","Hi, yeh sirf ek aisi cheez hai jo aapko kuch waqt se ho rahi hai, yeh aapke kaan mein dard ka sabab ban rahi hai. Aapka kaan kaan ke canal mein hai, isay aapke kaan ke canal se saaf karna chahiye. Aapka kaan ka canal aapke kaan ke canal ke andar hai, isay aapke kaan ke canal ke andar se saaf karna chahiye. Aapka kaan ka canal aapke kaan ke canal ke andar se saaf karna chahiye. Aapka kaan ka canal aapke kaan ke canal ke andar se saaf karna chahiye. Aapka kaan ka canal aapke kaan ke canal ke andar se saaf karna chahiye. Aapka kaan ka canal a",2.75,,,
+Llama-1B,FT,Jism par lal nishan par gaye hain aur kharish ho rahi hai.,Mujhe lagta hai ke aapko ek sehatmand diet aur exercise plan ki zaroorat hai. Aapko apne jism ke liye kuch kharash ho rahi hai. Aapko apne jism ke liye kuch kharash ho rahi hai. Aapko apne jism ke liye kuch kharash ho rahi hai. Aapko apne jism ke liye kuch kharash ho rahi hai. Aapko apne jism ke liye kuch kharash ho rahi hai. Aapko apne jism ke liye kuch kharash ho rahi hai. Aapko apne jism ke liye kuch kharash ho rahi hai. Aapko apne jism ke liye kuch kharash ho rahi hai. Aapko apne jism ke liye kuch kharash ho,2.3,,,
+Llama-1B,FT,Mujhe ulti jaisa mehsoos ho raha hai (nausea). kia karun?,"Mujhe lagta hai ke aapko sirf ek hi wajah hai jo aapko is maslay se guzarne mein madad de rahi hai, jo ke aapke jism mein kuch aisa hai jo aapko nausea aur vomiting ka sabab banta hai. Aapko ek aisa shakhs se milna hoga jo aapko is maslay se guzarne mein madad de.",3,,,
+Llama-1B,RAG,"Mujhe subah se sar mein dard ho raha hai, koi dawai bataen?","Mujhe lagta hai ke aapko vertigo hai, aapko apne sar ke neeche do takiye (pillows) rakhna chahiye aur aapko apne sar ko tezi se na hilayana chahiye. Aapko apne sar ko apne haath se na chhune chahiye. Aapko apne sar ko apne haath se na chhune chahiye. Aapko apne sar ko apne haath se na chhune chahiye. Aapko apne sar ko apne haath se na chhune chahiye. Aapko apne sar ko apne haath se na chhune chahiye. Aapko apne sar ko apne haath se na chhune chahiye. Aapko apne sar ko apne haath se na chhune chahiye. Aapko",3,,,
+Llama-1B,RAG,Mere bachay ko tez bukhar hai aur wo kuch kha nahi raha.,"Mujhe afsos hai ke aap is se guzar rahe hain. Main aapko salah deta hoon ke aap apne bachay ke doctor se raabta karein. Aapka bachay ka bukhar kisi bhi wajah se ho sakta hai, jaise viral infection, bacterial infection, ya phir kisi aur cheez jaise ke allergies, allergies, ya kisi aur infection ki wajah se. Aapka bachay ka bukhar aam tor par 3 se 5 din tak rehta hai. Aapka bachay ka bukhar aapke bachay ke doctor ke paas le jana chahiye. Aapka bachay ka bukhar aapke bachay ke doctor ke paas le jana chahiye. Aapka bachay ka bukhar aapke bachay ke doctor ke paas le jana chahi",2.5,,,
+Llama-1B,RAG,"Mujhe khansi ke sath balgham aa raha hai, kya karoon?","Mujhe lagta hai ke aapko kuch aur bhi nahi mil raha. Khansi ke sath balgham aana aam hai, lekin agar aapko ye asraat kyun hain to aapko ek medical provider se milna chahiye. Ye asraat aapke jism ke kisi bhi hissa mein ho sakte hain, isliye aapko ek medical provider se milna chahiye taake aapka sahi se jaiza liya ja sake.",3.5,,,
+Llama-1B,RAG,Pait mein mror uth rahe hain aur loose motion lage hain.,Mujhe lagta hai ke aapko apne doctor se milna chahiye taake wo aapki madad kar sakein. Aapko apne doctor se milna chahiye taake wo aapki madad kar sakein. Aapko apne doctor se milna chahiye taake wo aapki madad kar sakein. Aapko apne doctor se milna chahiye taake wo aapki madad kar sakein. Aapko apne doctor se milna chahiye taake wo aapki madad kar sakein. Aapko apne doctor se milna chahiye taake wo aapki madad kar sakein. Aapko apne doctor se milna chahiye taake wo aapki madad kar sakein. Aapko apne doctor se milna chahiye taake wo aapki madad kar sakein. A,2.7,,,
+Llama-1B,RAG,"Mere daant mein shadeed dard hai, dentist ke paas janay tak kya karoon?",Aapko apne daant ka dentist se milna chahiye.,3,,,
+Llama-1B,RAG,Mujhe saans lene mein dushwari ho rahi hai jab main sidhiyan charhta hoon.,"Mujhe lagta hai ke aapko sirf saans lene mein dushwari nahi hai, balki aapko saans lene mein dard bhi ho raha hai. Aapko saans lene mein dard hone ke liye saans lene ki salahiyat kam honi chahiye. Aapko saans lene mein dard hone ke liye saans lene ki salahiyat kam honi chahiye. Aapko saans lene mein dard hone ke liye saans lene ki salahiyat kam honi chahiye. Aapko saans lene mein dard hone ke liye saans lene ki salahiyat kam honi chahiye. Aapko saans lene mein dard hone ke liye saans lene ki salahiyat kam honi chahiye. Aapko saans lene mein dard hone ke liye saans",2.5,,,
+Llama-1B,RAG,Meri aankhon mein jalan aur pani aa raha hai.,Aapko ek medical provider se mashwara lena chahiye.,3,,,
+Llama-1B,RAG,"Kaan mein dard hai, shayed paani chala gaya hai.","Hi, mujhe lagta hai ke aapko kaan ka dard hai. Aapko apne kaan ko garam kapray se dhakna chahiye aur apne kaan ki sekai ko garam paani se dhakna chahiye. Aapko kaan ka dard ka ilaj karne ke liye ear drops aur painkillers leni chahiye. Aapko apne kaan ko garam paani se dhakna chahiye aur apne kaan ki sekai ko garam paani se dhakna chahiye. Aapko kaan ka dard ka ilaj karne ke liye ear drops aur painkillers leni chahiye. Aapko apne kaan ko garam paani se dhakna chahiye aur apne kaan ki sekai ko garam paani se dhakna chahiye. Aapko kaan ka",2.5,,,
+Llama-1B,RAG,Jism par lal nishan par gaye hain aur kharish ho rahi hai.,"Mujhe lagta hai ke aapko chickenpox hai, aapko chickenpox ka vaccine lagwayen.",3.5,,,
+Llama-1B,RAG,Mujhe ulti jaisa mehsoos ho raha hai (nausea). kia karun?,"Hi, mujhe lagta hai ke aapko vertigo hai. Aapko ek neurologist se milna hoga. Aapko ek MRI karwani chahiye. Aapko ek neurologist se milna hoga. Aapko ek neurologist se milna hoga. Aapko ek neurologist se milna hoga. Aapko ek neurologist se milna hoga. Aapko ek neurologist se milna hoga. Aapko ek neurologist se milna hoga. Aapko ek neurologist se milna hoga. Aapko ek neurologist se milna hoga. Aapko ek neurologist se milna hoga. Aapko ek neurologist se milna hoga. Aapko ek neurologist se milna hoga. Aapko ek neurologist se milna hoga. Aapko ek",2.5,,,
+Llama-3B,Base,"Mujhe subah se sar mein dard ho raha hai, koi dawai bataen?","پہلی سے پہلی، یہ بات یقیناً ہے کہ آپ کو اس کے لیے ڈاکٹر سے مشورہ لینا چاہیے۔ لیکن میں آپ کو کچھ اہم تجویز کرسکتا ہوں:
+
+1. **سار کی دیکھ بھال**: اگر آپ کے پاس ہوسکتا ہے تو اپنی سر کی دیکھ بھال کرکے دیکھیں کہ کیا وہ ٹھیک ہے یا نہیں۔ اگر وہ ٹھیک ہے تو آپ کو کوئی دawai نہیں لینے کی",1.5,,,
+Llama-3B,Base,Mere bachay ko tez bukhar hai aur wo kuch kha nahi raha.,"پروڈاکٹس:
+
+1. **بھیڑ کی چھاتی**: بھیڑ کی چھاتی کو پھیلائیں اور اس پر مہلک پانی ڈال کر اسے بھیڑ کے پانی سے بھر دیں۔ اسے 30 منٹ تک رکھ دیں اور پھر اسے ہلکے ہاتھ سے پھیلائیں۔
+
+2. **بھیڑ کی چھاتی کے ساتھ ہلکے ہاتھ سے پھیلاؤ**: بھیڑ کی چھاتی کو ہلکے ہاتھ سے پھیلائیں اور اسے �",1.5,,,
+Llama-3B,Base,"Mujhe khansi ke sath balgham aa raha hai, kya karoon?","User Question: Mujhe khansi ke sath balgham aa raha hai, kya karoon?
+
+Answer: Khansi ke sath balgham aa raha hai, iske liye aap nimnalikhit kadam utha sakte hain:
+
+1. Apne aap ko thoda thanda karne ka prayas karein. Aap ek garm paani ya ek thanda paani ke beech se ghum sakte hain.
+2. Apne aap ko shant karne ka prayas karein. Aap deep breathing ya progressive muscle relaxation ka prayog kar sakte hain.
+3. Apne aap ko dhyan mein rakhein. Aap apne aankhon par dhyan kendrit karein aur apne aap ko shant rakhein.
+4. Apne aap ko khana aur peena nahi karein. Khana aur pe",3.5,,,
+Llama-3B,Base,Pait mein mror uth rahe hain aur loose motion lage hain.,پیت میں مرور ہو رہا ہے اور لوس مین (loose motion) لگ رہا ہے۔,1.5,,,
+Llama-3B,Base,"Mere daant mein shadeed dard hai, dentist ke paas janay tak kya karoon?","User Question: Mere daant mein shadeed dard hai, dentist ke paas janay tak kya karoon?
+
+Jab aapko daant mein shadeed dard hota hai, to aapko kuchh steps follow karni chahiye:
+
+1. Apne daant ko thoda thanda karne ke liye ek cold compress ya ice pack ka upyog karein. Isse daant mein dard kam hoga.
+2. Apne daant ko saaf karne ke liye ek soft-bristled toothbrush aur denture polish ka upyog karein. Isse daant mein dard kam hoga.
+3. Apne daant ko saaf karne ke liye ek antibacterial mouthwash ka upyog karein. Isse daant mein dard kam hoga.
+4. Apne daant ko saaf karne ke liye ek fluoride toothpaste ka",4,,,
+Llama-3B,Base,Mujhe saans lene mein dushwari ho rahi hai jab main sidhiyan charhta hoon.,"سائنسی جائزہ:
+
+سائنسی طور پر، ""سائنسی طور پر،"" ""سائنسی طور پر"" کے معنی ""سائنسی طور پر"" ہیں۔
+
+دھمکی کے لیے، ""دھمکی"" کا مطلب ہے ""سائنسی طور پر"" یا ""سائنسی طور پر""۔
+
+دھمکی کے لیے، ""دھمکی"" کا مطلب ہے ""سائنسی طور پر"" یا ""سائنسی طور پر""۔
+
+دھمکی کے لیے، ""دھمکی"" کا مطلب ہے ""سائنسی طور پر"" یا ""سائنسی طور پر""۔
+
+دھمکی کے لیے،",1.5,,,
+Llama-3B,Base,Meri aankhon mein jalan aur pani aa raha hai.,"User Question: Meri aankhon mein jalan aur pani aa raha hai.
+
+Answer: Aapki aankhon mein jalan aur pani aa raha hai, yah ek aam samasya hai jise ""glaucoma"" kaha jata hai. Glaucoma ek aisi sthiti hai jismein aankhon mein dabav badh jaata hai, jisse aankhon mein pani aa sakta hai aur aankhon ki talaash mein kshatraa pad sakta hai.
+
+Ili aapki aankhon ki ye samasya hal ki jaa sake, aapko tab tak aapke doctor se sampark karna hoga jab tak aapke aankhon mein koi aisi samasya na ho. Aapke doctor aapko aankhon ki janch karwane ke liye keh sakte hain, aur agar aap",3.5,,,
+Llama-3B,Base,"Kaan mein dard hai, shayed paani chala gaya hai.","User Question: Kaan mein dard hai, shayed paani chala gaya hai.
+
+Answer: Tumhare kaan mein dard hone ka sabab paani chalne se nahi ho sakta, lekin yeh ek samanya samasya ho sakti hai. Aam taur par, kaan mein dard ka karan ek vishesh tarike se ho sakta hai, jaise ki:
+
+- Kaan mein gandagi ya kala
+- Kaan mein khatarnaak cheezon ka presence
+- Kaan mein dard hone ka sabab ek vishesh tarike se ho sakta hai, jaise ki:
+  - Kaan mein dard hone ka sabab ek vishesh tarike se ho sakta hai, jaise ki:
+    - Kaan mein dard hone ka sabab ek vishesh tarike se ho sakta hai, jaise ki",3.5,,,
+Llama-3B,Base,Jism par lal nishan par gaye hain aur kharish ho rahi hai.,"پ्रश्न: جسم پر لال نشان پر گئے ہیں اور خرش ہو رہی ہے۔
+جواب: جس میں جسم پر لال نشان ہوں گا اور خرش ہو رہا ہو گا وہ ہے کہ وہ شخص جس میں ہڈیوں میں ہڈیوں کی چوٹوں یا ٹوٹوں کی وجہ سے خرش ہو رہا ہو گا۔",1,,,
+Llama-3B,Base,Mujhe ulti jaisa mehsoos ho raha hai (nausea). kia karun?,"Apko ulti jaisa mehsoos ho raha hai, yeh ek aam samasya hai. Yahaan kuch sujhav diye gaye hain jo aapko madad kar sakte hain:
+
+1. Pehle, apko thoda samay ke liye baith jayein aur apni paas ki cheezein dekhein. Aisi cheezein karein jo aapko thakaan na de.
+2. Apko thoda paani peene ka prayas karein. Lekin, agar aapko ulti ho rahi hai, to paani peene se pehle apne shaayadon ko pahle se pasein.
+3. Agar aapko ulti ho rahi hai, to apko thoda samay ke liye baith jayein aur apni paas ki cheezein dekhe",3.5,,,
+Llama-3B,FT,"Mujhe subah se sar mein dard ho raha hai, koi dawai bataen?",Aapko apne doctor se milna chahiye taake aapka sahi jaiza liya ja sake. Aapko apne sar mein dard hone ka sabab bhi pata chalega. Aapko ek neurologist se milna chahiye.,3.5,,,
+Llama-3B,FT,Mere bachay ko tez bukhar hai aur wo kuch kha nahi raha.,"Bukhar ke liye koi ilaj nahi hai, lekin aapko apne bachay ko zyada fluids aur khanay ki zarurat hai. Agar bukhar 3 din se zyada rahe to aapko apne bachay ko pediatrician se milna chahiye.",3,,,
+Llama-3B,FT,"Mujhe khansi ke sath balgham aa raha hai, kya karoon?","Agar aapko balgham aa raha hai to aapko apne doctor se milna chahiye. Aapko khansi ke sath balgham hone ka koi ilaj nahi hai, lekin aapko apne doctor se milna chahiye taake aapko sahi ilaj mil sake.",3.5,,,
+Llama-3B,FT,Pait mein mror uth rahe hain aur loose motion lage hain.,Mujhe lagta hai ke yeh aapke pet ke muscles ka masla hai jo aapke pet ke muscles se zyada tight hain. Yeh aapke pet ke muscles ko tight kar deta hai aur aapke pet ke muscles ko relax karne se rokti hai. Yeh aapke pet ke muscles ko relax karne se rokti hai aur aapke pet ke muscles ko relax karne se rokti hai. Yeh aapke pet ke muscles ko relax karne se rokti hai aur aapke pet ke muscles ko relax karne se rokti hai. Yeh aapke pet ke muscles ko relax karne se rokti hai aur aapke pet ke muscles ko relax karne se rokti hai. Yeh aapke pet ke muscles ko relax karne se rokti hai aur aapke pet ke muscles ko relax karne se rokti hai,2.5,,,
+Llama-3B,FT,"Mere daant mein shadeed dard hai, dentist ke paas janay tak kya karoon?","Aapko apne dentist ke paas jana chahiye, aapko is dard ka sabab samajhna chahiye aur isay theek karwana chahiye.",3,,,
+Llama-3B,FT,Mujhe saans lene mein dushwari ho rahi hai jab main sidhiyan charhta hoon.,"Yeh ek aam masla hai jo aapko apne doctor se check karwana chahiye. Aapka dil ka kaam theek hai, yeh ek aam masla hai jo aapko apne doctor se check karwana chahiye. Aapko apne doctor se check karwana chahiye.",3.5,,,
+Llama-3B,FT,Meri aankhon mein jalan aur pani aa raha hai.,"Aapko lagta hai ke aapko conjunctivitis hai, jo ke aankhon ke ird gird ke tissue ki soozish hai. Aapko ek aankh ke specialist se milna chahiye taake aapka sahi jaiza liya ja sake. Aapko ek antibiotic eye drop istemal karni chahiye.",4,,,
+Llama-3B,FT,"Kaan mein dard hai, shayed paani chala gaya hai.",Kan mein dard ka sabab kya hai? Kya yeh sirf paani chala gaya hai ya kuch aur bhi ho raha hai? Kya yeh sirf ek kan hai ya dono? Kya yeh dard sirf ek taraf hai ya dono taraf? Kya yeh dard sirf ek din se zyada hai ya yeh sirf ek din hai? Kya yeh dard sirf ek taraf hai ya dono taraf? Kya yeh dard sirf ek din se zyada hai ya yeh sirf ek din hai? Kya yeh dard sirf ek taraf hai ya dono taraf? Kya yeh dard sirf ek din se zyada hai ya yeh sirf ek din hai? Kya yeh dard sirf ek taraf hai ya dono taraf? Kya yeh dard sirf ek din se zyada hai,2.5,,,
+Llama-3B,FT,Jism par lal nishan par gaye hain aur kharish ho rahi hai.,Yeh ek shiddat ka allergic reaction hai jo kisi bhi cheez ki wajah se ho sakta hai. Aapko ek anti histaminic dawa leni chahiye aur local creams lagani chahiye. Agar asraat barqarar rahein to aapko ek dermatologist se milna chahiye.,3.5,,,
+Llama-3B,FT,Mujhe ulti jaisa mehsoos ho raha hai (nausea). kia karun?,Agar aapko nausea hai to aapko apne doctor se milna chahiye. Aapko apne doctor se milna chahiye.,3,,,
+Llama-3B,RAG,"Mujhe subah se sar mein dard ho raha hai, koi dawai bataen?",Aapko vertigo ke liye anti-vertigo dawaiyan leni chahiye. Aapko apne doctor se mashwara karna chahiye taake aapko sahi dawai mil sake. Aapko apne doctor se mashwara karna chahiye taake aapko sahi dawai mil sake.,2.5,,,
+Llama-3B,RAG,Mere bachay ko tez bukhar hai aur wo kuch kha nahi raha.,Agar bukhar 102 darje se zyada hai to aapko apne doctor se mashwara karna chahiye. Agar bukhar 100 darje se kam hai to aapko apne doctor se mashwara karna chahiye. Agar bukhar 100 darje se zyada hai to aapko apne doctor se mashwara karna chahiye. Agar bukhar 100 darje se kam hai to aapko apne doctor se mashwara karna chahiye. Agar bukhar 100 darje se kam hai to aapko apne doctor se mashwara karna chahiye. Agar bukhar 100 darje se kam hai to aapko apne doctor se mashwara karna chahiye. Agar bukhar 100 darje se kam hai to aapko apne doctor se mashw,2.5,,,
+Llama-3B,RAG,"Mujhe khansi ke sath balgham aa raha hai, kya karoon?",Aapko apne doctor se mashwara lena chahiye taake aapko sahi dawa mil sake.,3,,,
+Llama-3B,RAG,Pait mein mror uth rahe hain aur loose motion lage hain.,Aapko apne joron ke dard ke liye anti-inflammatory dawai leni chahiye. Aapko apne joron ke dard ke liye anti-inflammatory dawai leni chahiye. Aapko apne joron ke dard ke liye anti-inflammatory dawai leni chahiye.,3,,,
+Llama-3B,RAG,"Mere daant mein shadeed dard hai, dentist ke paas janay tak kya karoon?","Aapko apne dentist se mashwara karna chahiye, lekin aapko apne daant ke dard ke liye kuch garam kapray istemal karna chahiye taake aapko kuch temporary relief mile.",2.75,,,
+Llama-3B,RAG,Mujhe saans lene mein dushwari ho rahi hai jab main sidhiyan charhta hoon.,Aapki khansi ke saath balgham aana aapke asraat ka sabab ban sakta hai. Aapko ek medical provider se mashwara lena chahiye taake aapka sahi se jaiza liya ja sake aur aapko sahi ilaj mil sake.,2,,,
+Llama-3B,RAG,Meri aankhon mein jalan aur pani aa raha hai.,Aankhon mein jalan aur pani aana aapke bukhar ke liye koi asar nahi hoga. Aapko apne doctor se mashwara lena chahiye taake aapka sahi taur par ilaj ho sake.,2,,,
+Llama-3B,RAG,"Kaan mein dard hai, shayed paani chala gaya hai.","Shayad aapko kaan ka infection hai, isliye aapko apne doctor se mashwara lena chahiye.",2.5,,,
+Llama-3B,RAG,Jism par lal nishan par gaye hain aur kharish ho rahi hai.,"Aapko chickenpox hai, aapko isay khatam karne ke liye anti-viral dawaiyon ki zaroorat hai. Neem ke pattay aur Calamine lotion madadgar honge. Aapko ek anti-allergy kharish ki zaroorat hai, isliye anti-allergy dawaiyan bhi leni chahiye. Aapko apne doctor se mashwara karna chahiye.",5,,,
+Llama-3B,RAG,Mujhe ulti jaisa mehsoos ho raha hai (nausea). kia karun?,Aapko apne doctor se mashwara karna chahiye.,3,,,
+Qwen-7B,Base,"Mujhe subah se sar mein dard ho raha hai, koi dawai bataen?","شام کی بہار سے میری چپے پر آک پیدا ہوا ہے، کوئی دوائی بیان کریں؟
+
+ایک مددگار طبی کیمپنے کے مطابق، اگر شام کی بہار میں چپے پر آک پیدا ہوا ہے تو اس کی وجہ کچھ ممکنہ چیزیں ہیں جیسے کہ کھلی چپے، ریٹنیا میں تورم، یا کسی سب سے کم سے کم کھلی چپے کی مسئلہ۔ اس کی وجہ کا تعین کرنے کے لیے",1,,,
+Qwen-7B,Base,Mere bachay ko tez bukhar hai aur wo kuch kha nahi raha.,"میرے بچے کو تیز بخار ہے اور وہ کچھ کھا نہیں رہا۔ اس مسئلے کا حل کرنے کے لئے آپ نے کچھ کرنا چاہئے:
+
+1. اپنے بچے سے مکمل طور پر بات کریں۔ ان کے نامے کیا ہے، کیا آپ کسی کے ساتھ کھانے کے لئے جانے کی کوئی مشکلی ہے، کیا کسی کے ساتھ کھانے کی کوئی محدودیت ہے۔
+
+2. اگر بچے کو کسی مرضی کے نقصان کی وجہ س",1.25,,,
+Qwen-7B,Base,"Mujhe khansi ke sath balgham aa raha hai, kya karoon?","آپ کی معلومات پر مبنی ایک طبی مشکل کے بارے میں سوال ہے۔ کھانسی کے ساتھ بالگم آ رہا ہے، اس کی وجہ کیا ہو سکتی ہے اور کیسے کرتے ہیں؟
+
+اس کی وجہ چیزیں کی جا سکتی ہیں:
+1. ناپاک غذا یا آب کی تناہم
+2. کھانسی کے دور میں ایک ٹیلی فیبر یا آنگین کی وجہ
+3. کھانسی کے دور میں کم آب کی تناہم
+
+آپ کی ط",1.5,,,
+Qwen-7B,Base,Pait mein mror uth rahe hain aur loose motion lage hain.,پائٹ میں مور چھاڑ رہے ہیں اور لوس موتن لگے ہیں۔ آپ کی صحت کے بارے میں معلومات کی جاننا ضروری ہے لیکن ممکنہ وجہیں پاسخ کرتے ہوئے کہا جا سکتا ہے کہ اس کی وجہ میں کچھ غذا کی چھیت، میٹل کی یا میٹل کے ناتے کی میٹل کی یا میٹل کے ناتے کی میٹل کی یا میٹل کے ناتے کی میٹل کی یا میٹل کے ناتے,1.5,,,
+Qwen-7B,Base,"Mere daant mein shadeed dard hai, dentist ke paas janay tak kya karoon?","یہ دلانے کیلئے ایک مہربان دیانسٹ سے ملاقات کرنا چاہئے۔ آپ نے داانت میں شدید دلچسپی کیلئے مہربانی کرنا چاہئے۔ اس لئے آپ نے کچھ کرنا چاہئے:
+
+1. دیانسٹ کے پاس جائیں: ایک مہربان دیانسٹ سے ملاقات کریں۔ انہوں نے آپ کی مشکل کیسے چیک کرتے ہیں اور ایک مناسب طریقہ کیسے پیش کرتے ہیں۔
+
+2. معلومات کے ذری",2,,,
+Qwen-7B,Base,Mujhe saans lene mein dushwari ho rahi hai jab main sidhiyan charhta hoon.,"آپ کی سانس لینے میں دشواری ہو رہی ہے جب آپ سیدھی چرچت کرتے ہیں، اس کی وجہ کچھ ممکنہ چیزیں ہیں۔ ایک ممکنہ وجہ ہے کہ آپ کی سانس لینے کی قدرت کا کچھ تبدیل ہوا ہے۔ ایک دوسری ممکنہ وجہ ہے کہ آپ کی میوس کے ڈریولر (breathing passages) میں کچھ محدودیت ہو گئی ہے۔
+
+یہ مسئلہ کچھ کثیرہ کیا کرتے ہو",1.5,,,
+Qwen-7B,Base,Meri aankhon mein jalan aur pani aa raha hai.,میری اانکھون میں جلان اور پانی آ رہا हے۔ اس مسئلے کا تفصیلی درکار ہے لیکن اگر اسے بیان کرتے ہوئے کہا جاسکتا ہے تو یہ ممکنہ کہ ایک انسان کی اانکھوں میں جلان اور پانی آ رہا ہے۔ اس کی وجہ کچھ ممکنہ ہے جیسے کہ کمری، سمندری کمری، یا کسی دیگر مرضی کی وجہ ہونے کی ہے۔ آپ کی صحت کے لیے اس کے بارے میں,1.2,,,
+Qwen-7B,Base,"Kaan mein dard hai, shayed paani chala gaya hai.",کان میں دارد ہے، شاید پانی چلا گیا हے۔ آپ کی صحت کے بارے میں معلومات کی جانتے ہیں کہ کان میں دارد کیسے ہو سکتی ہے۔ اس مسئلے کو حل کرنے کے لیے آپ کی نیازوں کے بارے میں کچھ کرنا ہے۔ پانی چلا گیا ہونے کی وجہ سے کان میں دارد ہونے کی یکمیں کیلئے آپ کی صحت کے معاون طبی کشی کے ذریعے یا اس کے تحت ای,1.3,,,
+Qwen-7B,Base,Jism par lal nishan par gaye hain aur kharish ho rahi hai.,یسم پر لال نشان پڑے ہوئے ہیں اور خارش ہو رahi ہے۔ اس کیلئے آپ کو مedical expert کے ذریعے معاونت حاصل کرنے کی ضرورت ہے۔ اس مسئلے کے بارے میں ایک پروفیشنل نے کیا کہا جاسکتا ہے۔ آپ کی نشانات کو ایک طبی کارکن نے ملاحظہ کرتے رہنے کی ضرورت ہے۔ اگر آپ کو آس پاس میں طبی خدمات کے ذریعے معاونت حاصل کرنے کی قابلیت نہ,1.75,,,
+Qwen-7B,Base,Mujhe ulti jaisa mehsoos ho raha hai (nausea). kia karun?,"آپ کی ناوسیا کے لئے کچھ مہربانی کاروباریں ہیں۔ آپ کو ایک میٹر سے پہلے بھی ناوسیا ہو رہا ہے تو اس کی وجہ کچھ ہو سکتی ہے جیسے کہ غذا کی کیفیت، میٹنگز، یا کسی درد کی وجہ ہونے کی ہے۔ آپ کو ناوسیا کیلئے کچھ کامیاب طریقے ہیں:
+
+1. آپ کو کمیں تھائے کھانے کے وقت کے دور میں کچھ غذا کھانے ک",2,,,
+Qwen-7B,FT,"Mujhe subah se sar mein dard ho raha hai, koi dawai bataen?","Aapko apne doctor se milna chahiye taake aapka sahi se jaiza liya ja sake aur ilaj kiya ja sake. Sar dard ke bohot se sabab hain, isliye sirf ek aam jawab nahi hai.",3,,,
+Qwen-7B,FT,Mere bachay ko tez bukhar hai aur wo kuch kha nahi raha.,Aapke bachay ke bukhar ka sabab kya hai? Kya aapne usay kisi bhi antibiotic di hai? Kya aapne usay koi dawai di hai jaise acetaminophen ya ibuprofen? Kya aapne usay koi over the counter cold medicine di hai? Kya aapne usay koi prescription dawai di hai? Kya aapne usay koi anti-inflammatory dawai di hai? Kya aapne usay koi anti-nausea dawai di hai? Kya aapne usay koi anti-diarrhea dawai di hai? Kya aapne usay koi stool softener di hai? Kya aapne usay koi laxative di hai? Kya aapne usay koi antacid di hai? Kya aapne usay koi anti-gas dawai di hai? K,2,,,
+Qwen-7B,FT,"Mujhe khansi ke sath balgham aa raha hai, kya karoon?","Aapko apne doctor se milna chahiye taake aapka sahi se jaiza liya ja sake aur diagnosis kiya ja sake. Khansi ke sath balgham aksar viral infection ki wajah se hota hai, lekin agar aapko bukhar bhi hai to yeh bacterial infection ho sakta hai. Aapko apne doctor se milna chahiye taake aapka sahi se jaiza liya ja sake aur diagnosis kiya ja sake.",3,,,
+Qwen-7B,FT,Pait mein mror uth rahe hain aur loose motion lage hain.,"Hi, yeh aapke pet ki infection ya gastritis ki wajah se ho sakta hai. Aapko anti-inflammatory tablets lein aur probiotic tablets bhi lein. Agar madad na mile to aapko gastroenterologist se mashwara lena chahiye. Shukriya.",4.5,,,
+Qwen-7B,FT,"Mere daant mein shadeed dard hai, dentist ke paas janay tak kya karoon?","Aapko apne dentist se milna chahiye aur apni daanton ki jaanch karwani chahiye. Aapke paas kuch options hain, jaise ke daant ko nikaalna ya root canal treatment. Aapko apne dentist se milna chahiye taake aapka sahi ilaj ho sake.",4.6,,,
+Qwen-7B,FT,Mujhe saans lene mein dushwari ho rahi hai jab main sidhiyan charhta hoon.,Yeh ek aam masla hai aur yeh aksar kisi underlying medical halat ki wajah se hota hai. Aapko apne doctor se milna chahiye taake aapka sahi se jaiza liya ja sake aur diagnosis kiya ja sake.,3.3,,,
+Qwen-7B,FT,Meri aankhon mein jalan aur pani aa raha hai.,"Yeh ek allergic reaction ho sakta hai jo ke kisi bhi cheez ki wajah se ho sakta hai, jaise ke khushboo, pollen, dust, dhoop ya kuch khanay. Aapko apne aankhon ko saaf rakhna chahiye aur agar yeh behtar nahi hota to aapko apne doctor se milna chahiye taake aapka sahi se jaiza liya ja sake.",4.8,,,
+Qwen-7B,FT,"Kaan mein dard hai, shayed paani chala gaya hai.","Yeh ek aam masla hai jo ke kisi bhi shakhs ko ho sakta hai, yeh sirf ek aam infection hai jo ke aksar antibiotics se theek hota hai. Aapko apne doctor se milna chahiye aur unhein batana chahiye ke aapke kaan mein dard hai aur aapko kuch nahi lag raha. Unhone aapka jaiza liya hoga aur aapko kuch antibiotic diya hoga. Agar aapko koi aur asraat nahi hain to aap theek rahenge.",3,,,
+Qwen-7B,FT,Jism par lal nishan par gaye hain aur kharish ho rahi hai.,Yeh ek allergic reaction hai jo ke zyada tar skin ki allergy se juda hai. Aapko apne doctor se milna chahiye taake aapka sahi ilaj ho sake. Aapko antihistaminic tablets leni chahiye aur local steroid creams lagani chahiye. Agar yeh behtar nahi hota to aapko apne doctor se milna chahiye.,4.2,,,
+Qwen-7B,FT,Mujhe ulti jaisa mehsoos ho raha hai (nausea). kia karun?,"Hi, yeh ek aam masla hai jo aksar aise hi shuru hota hai. Aapko apne doctor se milna chahiye aur unse poochna chahiye ke kya aapko koi tests ki zaroorat hai. Aapko shayad ek ECG aur CBC ki zaroorat hogi taake dekha ja sake ke kya aapko koi underlying medical condition hai. Agar aapke doctor ne kuch nahi dikhaya to aapko kuch din tak anti-nausea dawaiyan leni chahiye. Umeed hai yeh madad karega. Khuda hafiz.",3.2,,,
+Qwen-7B,RAG,"Mujhe subah se sar mein dard ho raha hai, koi dawai bataen?",Agar aapko sar mein dard hai to aapko apne doctor se milna chahiye taake wo aapka sahi jaiza le sakein aur aapke liye sahi dawai ka mashwara de sakein. Aapko shayad kisi aur medical masla ka ilaj ki zaroorat ho sakti hai.,3,,,
+Qwen-7B,RAG,Mere bachay ko tez bukhar hai aur wo kuch kha nahi raha.,"Mujhe lagta hai ke aapko apne bachay ko doctor ke paas le jana chahiye taake wo jaan sakein ke kya ho raha hai. Agar wo kuch nahi khate to wo shayad dehydrated hain. Aapko apne bachay ko bohot saari fluids deni chahiye, jaise ke paani ya juice. Agar wo kuch nahi khata to aapko usay hospital le jana chahiye taake wo intravenous fluids le sakein. Aapko apne bachay ko bohot saari fluids deni chahiye aur agar wo kuch nahi khata to aapko usay doctor ke paas le jana chahiye.",4.5,,,
+Qwen-7B,RAG,"Mujhe khansi ke sath balgham aa raha hai, kya karoon?",Aapko ek medical provider se milna chahiye taake aapka sahi se jaiza liya ja sake aur ilaj kiya ja sake. Aapko shayad ek chest x-ray ki zaroorat ho sakti hai taake lung infection ko rule out kiya ja sake. Agar aapko infection hai to aapko antibiotics ki zaroorat hogi. Aapko shayad ek expectorant bhi mil sakta hai taake aapki balgham nikal sake. Aapko achi kismet!,4.1,,,
+Qwen-7B,RAG,Pait mein mror uth rahe hain aur loose motion lage hain.,Aapko apne doctor se milna chahiye taake aapka sahi se jaiza liya ja sake aur diagnosis kiya ja sake.,3,,,
+Qwen-7B,RAG,"Mere daant mein shadeed dard hai, dentist ke paas janay tak kya karoon?","Mujhe nahi pata ke kaunsa masla hai, lekin main aapko yeh salah dunga ke aap apne dentist se milain taake aapka sahi jaiza liya ja sake. Aapke daant mein shadeed dard ho sakta hai, lekin yeh bhi ho sakta hai ke aapke kaan mein infection ho raha hai. Yeh dono halatein ek dusre se taluq rakh sakti hain. Aapko is bare mein apne dentist se baat karni chahiye. Umeed hai yeh madad karega.",2.8,,,
+Qwen-7B,RAG,Mujhe saans lene mein dushwari ho rahi hai jab main sidhiyan charhta hoon.,Aapko ek medical provider se milna chahiye taake aapka sahi se jaiza liya ja sake aur diagnosis kiya ja sake. Aapke sawal ka jawab dena mushkil hai kyunki mujhe aapki medical history ya aapki umar ya jins ka pata nahi hai.,3.6,,,
+Qwen-7B,RAG,Meri aankhon mein jalan aur pani aa raha hai.,Aapko apne aankhon ke doctor se milna chahiye taake aapka sahi se jaiza liya ja sake. Aapke aankhon mein jalan aur pani aapke bukhar ki wajah se ho sakta hai. Aapko apne aankhon ke doctor se milna chahiye taake aapka sahi se jaiza liya ja sake.,3.2,,,
+Qwen-7B,RAG,"Kaan mein dard hai, shayed paani chala gaya hai.","Hi, main aapko mashwara doonga ke aap apne doctor se milen taake aapka sahi jaiza liya ja sake aur sahi ilaaj diya ja sake. Aapke kaan mein fluid behne ki wajah se ye mumkin hai ke aapke kaan mein paani chala gaya hai. Agar aapka doctor isay confirm kare to aapko ek antibiotic aur ear drops diye jayenge. Aapko achi kismet mile.",4.8,,,
+Qwen-7B,RAG,Jism par lal nishan par gaye hain aur kharish ho rahi hai.,"Hi, mujhe lagta hai ke aapko chickenpox hai. Aapko anti-viral tablets leni chahiye aur agar aapko bukhar hai to aapko Tylenol ya Paracetamol lena chahiye. Agar aapko bukhar nahi hai to aapko sirf Tylenol lena chahiye. Agar aapko bukhar hai to aapko 24 ghante tak Tylenol lena chahiye. Agar aapko bukhar nahi hai to aapko sirf 12 ghante tak Tylenol lena chahiye. Aapko achi kismet!",4.5,,,
+Qwen-7B,RAG,Mujhe ulti jaisa mehsoos ho raha hai (nausea). kia karun?,Agar aapko ulti jaisa mehsoos ho raha hai to aapko apne doctor se milna chahiye taake wo aapka sahi jaiza le sakein aur aapke liye sahi ilaj de sakein.,3.2,,,
