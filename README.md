@@ -1,4 +1,4 @@
-# NLP_Project_Medical_Chatbot
+# Roman-Urdu-Medical-LLM
 A medical chatbot for symptoms analysis and general medical advice.
 ## Saved Models:
 The three fine-tuned models were saved to hugging face for easier access:
